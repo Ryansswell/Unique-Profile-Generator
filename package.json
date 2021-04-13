@@ -1,0 +1,24 @@
+{
+  "name": "Unique-Profile-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryansswell/Unique-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryansswell/Unique-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Ryansswell/Unique-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
